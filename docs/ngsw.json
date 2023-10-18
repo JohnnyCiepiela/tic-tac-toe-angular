@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1697624270350,
+  "timestamp": 1697624642099,
   "index": "/tic-tac-toe-angular-pwa/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/tic-tac-toe-angular-pwa/favicon.ico",
         "/tic-tac-toe-angular-pwa/index.html",
-        "/tic-tac-toe-angular-pwa/main.83361e9c6775ccb2.js",
+        "/tic-tac-toe-angular-pwa/main.c23873c08141c0bc.js",
         "/tic-tac-toe-angular-pwa/manifest.webmanifest",
         "/tic-tac-toe-angular-pwa/polyfills.2514d30113290032.js",
         "/tic-tac-toe-angular-pwa/runtime.53c5416e3b663ba6.js",
@@ -52,8 +52,8 @@
     "/tic-tac-toe-angular-pwa/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
     "/tic-tac-toe-angular-pwa/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
     "/tic-tac-toe-angular-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/tic-tac-toe-angular-pwa/index.html": "ec3956903e482bd3d0e3529597d0f6c91d6d64fd",
-    "/tic-tac-toe-angular-pwa/main.83361e9c6775ccb2.js": "309d59a4f0692ad39b8a194e4ce495321d323dff",
+    "/tic-tac-toe-angular-pwa/index.html": "336c1f8849a4b99354eddd291007127763652eac",
+    "/tic-tac-toe-angular-pwa/main.c23873c08141c0bc.js": "5f8a7b11b316a8f114aa36a690752e3eeefceaa1",
     "/tic-tac-toe-angular-pwa/manifest.webmanifest": "6972099ffa48f205e25eee7ca225ad0a9fd741d3",
     "/tic-tac-toe-angular-pwa/polyfills.2514d30113290032.js": "0b854903af25a2a6d7ab63d8084aa894a532b8fe",
     "/tic-tac-toe-angular-pwa/runtime.53c5416e3b663ba6.js": "73ff4bdb0ee5d3899802b1010a7921ca82e90b3e",
